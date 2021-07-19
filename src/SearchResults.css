@@ -1,0 +1,9 @@
+.brewery {
+    margin: 10px;
+    padding: 5px;
+}
+
+.searchContent {
+    padding: 20px;
+    columns: 2 auto;
+}
